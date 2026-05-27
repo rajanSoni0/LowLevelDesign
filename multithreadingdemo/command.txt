@@ -1,0 +1,5 @@
+javac multithreadingdemo/badversion/services/*.java multithreadingdemo/badversion/Main.java
+java multithreadingdemo.badversion.Main
+
+javac multithreadingdemo/goodversion/tasks/*.java multithreadingdemo/goodversion/Main.java
+java multithreadingdemo.goodversion.Main
