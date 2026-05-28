@@ -1,0 +1,2 @@
+javac producerconsumerdemo/buffer/*.java producerconsumerdemo/producer/*.java producerconsumerdemo/consumer/*.java producerconsumerdemo/Main.java
+java producerconsumerdemo.Main
